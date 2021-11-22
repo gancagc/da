@@ -1,6 +1,6 @@
 {
-  "name-web":"AnoKw",
-  "author":"AnoKw",
+  "name-web":"ZLagu",
+  "author":"ZLagu",
   "remove-comment-html":true,
   "target":"https://zlagu.net",
   "name-folder-sitemap":"sitemap",
@@ -428,7 +428,7 @@
         },
         {
           "name-attribute":"src",
-          "value-attribute":"https://affairsmithbloke.com/a6/f3/c9/a6f3c96711e27de372701c6862f768c3.js"
+          "value-attribute":"/"
         }      
       ],"data-innerHTML":"",
       "position":"end"
