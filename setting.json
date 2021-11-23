@@ -429,7 +429,7 @@
         },
         {
           "name-attribute":"src",
-          "value-attribute":"/adblo.js"
+          "value-attribute":"/assets/adblo.js"
         }      
       ],"data-innerHTML":"",
       "position":"end"
