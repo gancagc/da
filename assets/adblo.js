@@ -3,6 +3,6 @@ function {
 };
 
 function {
-var div document.getElementsByClassName("logo")[0].innerHTML="GO LAGU™";
+var a = document.getElementsByClassName("logo")[0].innerHTML="GO LAGU™";
 };
 
