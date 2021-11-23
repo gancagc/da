@@ -1,3 +1,3 @@
 function myFunction() {
- document.getElementsByTagName("a")[0].style.color = "red";
+ document.getElementsByTagName("h2")[0].style.color = "red";
 }
