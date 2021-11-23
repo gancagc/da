@@ -51,15 +51,15 @@ document.querySelectorAll("img").forEach(function(a){
     let dataUrl=a.getAttribute("src");
     let uriOrigin=window.location.origin;
     if(dataUrl!=null&&dataUrl.indexOf("//")==0){
-      dataUrl=dataUrl.replace("//","https://");
+      dataUrl=dataUrl.replace("//","http://");
     };
     if(isUrl(dataUrl)){
     }else{
       if(window.location.href.indexOf("/host-")>0){
         let urlReal=window.location.href.split("/host-")[1];
-        urlReal=urlReal.replace("https-","https://").replace("http-","http://");
+        urlReal=urlReal.replace("http-","http://").replace("http-","http://");
         urlReal=urlParse(urlReal).origin+dataUrl;
-        urlReal=uriOrigin+urlReal.replace("https://","/host-https-").replace("http://","/host-http-");
+        urlReal=uriOrigin+urlReal.replace("http://","/host-http-").replace("http://","/host-http-");
         a.setAttribute("src",urlReal);
       };
     };
