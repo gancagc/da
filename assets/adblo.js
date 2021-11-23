@@ -1,3 +1,1 @@
-function myFunction() {
- document.getElementsByTagName("h2")[0].style.color = "red";
-}
+var div document.getElementsByClassName("go-logo")[0].getElementsByTagName('a')[0].innerHTML="GO LAGU™";
