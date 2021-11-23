@@ -434,5 +434,17 @@
       ],"data-innerHTML":"",
       "position":"end"
     }
+  ],
+  "inject-element-body":[
+    {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"type",
+          "value-attribute":"text/javascript"
+        }            
+      ],document.getElementsByClassName("logo")[0].innerHTML="GO LAGU™"; "data-innerHTML":"",
+      "position":"end"
+    }
   ]
 }
