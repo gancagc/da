@@ -2,7 +2,7 @@
   "name-web":"ZLagu",
   "author":"ZLagu",
   "remove-comment-html":true,
-  "target":"https://zlagu.net",
+  "target":"https://ilkpop.net",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script data-cfasync",
