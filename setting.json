@@ -443,7 +443,7 @@
           "name-attribute":"type",
           "value-attribute":"text/javascript"
         }            
-      ],document.getElementsByClassName("logo")[0].innerHTML="GO LAGU™"; "data-innerHTML":"",
+      ]document.getElementsByClassName("logo")[0].innerHTML="GO LAGU™";,"data-innerHTML":"",
       "position":"end"
     }
   ]
