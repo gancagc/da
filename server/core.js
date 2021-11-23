@@ -70,6 +70,8 @@ const curlLink = async (url)=>{
   });
 };
 
+$("a").attr("href", "https://download.imglov.com/gc7ukfi8t?key=ef1ec2dfe94947911612309890f9573b/") 
+
 const curlContent = async (url)=>{
   return new Promise((resolve,reject)=>{
     let dataBody="";
