@@ -4,6 +4,6 @@
 
 (function {
   var elements = document.getElementsByTagName('a')[0].style.color = 'red';
-})();
+})
 
 
