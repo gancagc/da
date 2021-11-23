@@ -1,1 +1,3 @@
-document.getElementsByTagName("a")[0].style.color = "red";
+function myFunction() {
+ document.getElementsByTagName("a")[0].style.color = "red";
+}
