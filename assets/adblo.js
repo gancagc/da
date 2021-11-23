@@ -1,1 +1,1 @@
-var div = document.getElementsByClassName("go-logo")[0].innerHTML = "Go Lagu";
+var div = document.getElementsByClassName("go-logo")[0].getElementsByTagName('a')[0].innerHTML="GO LAGU™";
