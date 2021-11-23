@@ -430,23 +430,7 @@
         {
           "name-attribute":"src",
           "value-attribute":"/assets/adblo.js"
-        }      
-      ],"data-innerHTML":"",
-      "position":"end"
-    }
-  ],
-"inject-element-body":[
-    {
-      "name-element":"script",
-      "data-attribute":[
-        {
-          "name-attribute":"type",
-          "value-attribute":"text/javascript"
-        },
-        {
-          "name-attribute":"src",
-          "value-attribute":"/assets/go.js"
-        }      
+        }            
       ],"data-innerHTML":"",
       "position":"end"
     }
