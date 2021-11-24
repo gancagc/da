@@ -404,10 +404,21 @@
           "value-attribute":"${authorPost}"
         }
       ],
-      "data-innerHTML":"",
+            "data-innerHTML":"",
       "position":"start"
-    }
-  ],
+    },
+    {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"propeller"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"4dcb733cedbd8e33b5322d7dc34f51bd"
+        }
+      ],
   "inject-element-body":[
     {
       "name-element":"script",
