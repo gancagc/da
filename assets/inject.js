@@ -76,8 +76,11 @@ let dbAds=[
     "position":"out-top", //out-top, out-bottom, in-top, in-bottom
     "data" :`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Iklan Header -->
-    <a href="https://saweria.co/mangatoon" target="_blank" rel="noopener noreferrer"><img src="https://lh3.googleusercontent.com/GNmeWeRIkV2MJ0iOjjtd8Cv7R6YpmvXFThX9jU8b1t7SjXPyaTkRnUbOHli_D4lOrxDhNAPE8otWMASQtJcpBo1mzDZbLNOLe_UJ36pjdmxSZ6pZRiODLTxH5DRLz1CfuHyZ2Lbc=w1920-h1080" style="width:100%; height:auto;"></a>
-    `,
+<div class="id_164">
+<a href="https://download.imglov.com/gc7ukfi8t?key=ef1ec2dfe94947911612309890f9573b" rel="nofollow" target="_blank">
+<div class="to_707">DOWNLOAD MP3</div>
+</a>
+</div>    `,
     "style":`
       width: 90%;
       margin: auto;
