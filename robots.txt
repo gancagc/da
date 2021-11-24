@@ -3,4 +3,4 @@ User-Agent: *
 Allow: /
 Disallow: 
 
-Sitemap: https://neonime.uk/host-https-neonime.cc/sitemap.xml
+Sitemap: https://go-lagu.zlagu.pw/host-https-go-lagu.net/sitemap.xml
