@@ -219,8 +219,10 @@
           "name-attribute":"content",
           "value-attribute":"width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0"
         }
-      ],
-  "inject-element-head":[
+      ], 
+      "data-innerHTML":"",
+      "position":"start"
+    },
     {
       "name-element":"meta",
       "data-attribute":[
