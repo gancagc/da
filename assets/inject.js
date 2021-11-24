@@ -77,15 +77,33 @@ let dbAds=[
     "data" :`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Iklan Header -->
 <div class="id_164">
-<a href="https://download.imglov.com/gc7ukfi8t?key=ef1ec2dfe94947911612309890f9573b" rel="nofollow" target="_blank">
-<div class="to_707">DOWNLOAD MP3</div>
+<a href="https://download.imglov.com/gc7ukfi8t?key=ef1ec2dfe94947911612309890f9573b" rel="nofollow" target="_blank" style="color: white;">
+<div class="to_707" style="
+    border: 1px #56aa71 solid;
+    background-color: #2f7e49;
+    width: 90%;
+    padding: 4px;
+    text-align: center;
+    margin: 0;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    float: none;
+">DOWNLOAD MP3</div>
 </a>
 </div>    `,
     "style":`
-      width: 90%;
+      position: fixed;
+      bottom: 0px;
+      right: 0px;
+      background-color: #ffffff;
+      width: 100%;
+      z-index: 1000;
+      padding: 2px;
       margin: auto;
-      margin-bottom: 10px;
-      margin-top: 10px;
+      text-align: center;
+      float: none;
+      box-shadow: 0px -2px 10px #c0c0c0;
     `
   }
 ];
