@@ -239,6 +239,21 @@
       "position":"start"
     },
     {
+      "name-element":"style",
+      "data-attribute":[
+        {
+          "name-attribute":"type",
+          "value-attribute":"text/css"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"https://idtv.my.id/ok.css"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
+    {
       "name-element":"meta",
       "data-attribute":[
         {
