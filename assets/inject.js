@@ -77,7 +77,7 @@ let dbAds=[
     "data" :`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Iklan Header -->
 <div class="id_164">
-<a href="https://nessainy.net/4/4680709" rel="nofollow" target="_blank" style="color: white;">
+<a href="https://thaudray.com/4/4680709" rel="nofollow" target="_blank" style="color: white;">
 <div class="to_707" style="
     border: 1px #56aa71 solid;
     background-color: #2f7e49;
