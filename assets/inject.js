@@ -73,7 +73,7 @@ let dbAds=[
       ".content",
       ".pa15.bgwhite"
     ],
-    "position":"out-top", //out-top, out-bottom, in-top, in-bottom
+    "position":"out-bottom", //out-top, out-bottom, in-top, in-bottom
     "data" :`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Iklan Header -->
 <div class="id_164">
