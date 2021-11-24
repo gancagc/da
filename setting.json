@@ -239,15 +239,15 @@
       "position":"start"
     },
     {
-      "name-element":"style",
+      "name-element":"meta",
       "data-attribute":[
         {
-          "name-attribute":"type",
-          "value-attribute":"text/css"
+          "name-attribute":"name",
+          "value-attribute":"propeller"
         },
         {
           "name-attribute":"content",
-          "value-attribute":"https://idtv.my.id/ok.css"
+          "value-attribute":"4dcb733cedbd8e33b5322d7dc34f51bd"
         }
       ],
       "data-innerHTML":"",
@@ -321,21 +321,7 @@
           "value-attribute":"${titlePost}"
         }
       ],
-      "data-innerHTML":"",
-      "position":"start"
-    },
-    {
-      "name-element":"meta",
-      "data-attribute":[
-        {
-          "name-attribute":"property",
-          "value-attribute":"og:description"
-        },
-        {
-          "name-attribute":"content",
-          "value-attribute":"${descriptionPost}"
-        }
-      ],
+      c
       "data-innerHTML":"",
       "position":"start"
     },
